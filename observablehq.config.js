@@ -19,15 +19,19 @@ export default {
       name: "Is there a visible correlation between economic growth and social progress (e.g., life expectancy, literacy rate), and do countries with similar GDP levels differ in their social performance?",
       path: "/q2"
     },
-    {
-      name: "Converted",
-      path: "/converted",
-      hidden: true
-    }
+    ...(process.env.NODE_ENV !== "production" ? [
+      {
+        name: "Converted",
+        path: "/converted",
+        hidden: true
+      }
+    ] : []),
   ],
-
   // Content to add to the head of the page, e.g. for a favicon:
-  head: '<link rel="stylesheet" href="custom-styles.css">',
+  head: `
+  <link rel="stylesheet" href="custom-styles.css">
+  <link rel="icon" href="favicon.svg" type="image/svg+xml">
+`,
 
   // The path to the source root.
   root: "src",
