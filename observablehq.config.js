@@ -16,6 +16,10 @@ export default {
       path: "/q1"
     },
     {
+      name: "Is there a visible correlation between economic growth and social progress (e.g., life expectancy, literacy rate), and do countries with similar GDP levels differ in their social performance?",
+      path: "/q2"
+    },
+    {
       name: "Converted",
       path: "/converted",
       hidden: true

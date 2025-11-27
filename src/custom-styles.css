@@ -11,3 +11,7 @@ svg .domain {
 svg .tick line {
     stroke: #444;
 }
+
+p {
+    text-align: justify;
+}
