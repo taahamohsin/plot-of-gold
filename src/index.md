@@ -17,7 +17,7 @@ Understanding these relationships matters for:
 - international development organizations evaluating country progress,
 - and ordinary citizens comparing conditions and opportunities across nations.
 
-Our goal is to explore the relationship between economic prosperity and social and environmental outcomes over three decades — and measure how evenly global development has been shared.
+Our goal is to explore the relationship between economic prosperity and social and environmental outcomes over three decades - and measure how evenly global development has been shared.
 
 ---
 
@@ -26,13 +26,12 @@ Our goal is to explore the relationship between economic prosperity and social a
 This article investigates the following questions:
 
 1. How have GDP per capita and life expectancy evolved across income groups since 1990?
-2. Is there a correlation between GDP and social progress (e.g., life expectancy, literacy rate, poverty rate)?
-3. Do higher-income countries consistently perform better environmentally?
-4. Is there a trade-off between economic growth and sustainability?
-5. Which regions show the best balance of prosperity and social development?
-6. Are developing countries catching up with high-income nations?
-7. Do countries with similar GDP levels differ in their social or environmental indicators?
-8. Can we identify clusters of countries with similar development profiles?
+2. Is there a visible correlation between economic growth and social progress (life expectancy, literacy rate), and do countries with similar GDP levels differ in their environmental or social performance?
+3. Do higher-income countries have lower poverty rates?
+4. Is there a trade-off between economic growth and CO₂ emissions?
+5. Which regions show the strongest balance between economic prosperity and sustainability?
+6. Have developing countries narrowed the gap with high-income nations in education and health outcomes?
+7. Can we identify clusters of countries with similar socio-economic profiles using visualization (e.g., scatterplots or map visualizations)?
 
 Each section of this project presents a question, a visualization, and an interpretation of what the data reveals.
 
