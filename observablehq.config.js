@@ -19,6 +19,10 @@ export default {
       name: "Is there a visible correlation between economic growth and social progress (e.g., life expectancy, literacy rate), and do countries with similar GDP levels differ in their social performance?",
       path: "/q2"
     },
+    {
+      name: "Do higher-income countries have lower poverty rates?",
+      path: "/q3"
+    },
     ...(process.env.NODE_ENV !== "production" ? [
       {
         name: "Converted",
