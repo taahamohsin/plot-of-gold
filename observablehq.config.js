@@ -23,6 +23,10 @@ export default {
       name: "Do higher-income countries have lower poverty rates?",
       path: "/q3"
     },
+    {
+      name: "Is there a trade-off between economic growth and CO₂ emissions?",
+      path: "/q4"
+    },
     ...(process.env.NODE_ENV !== "production" ? [
       {
         name: "Converted",
