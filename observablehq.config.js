@@ -27,13 +27,6 @@ export default {
       name: "Is there a trade-off between economic growth and CO₂ emissions?",
       path: "/q4"
     },
-    ...(process.env.NODE_ENV !== "production" ? [
-      {
-        name: "Converted",
-        path: "/converted",
-        hidden: true
-      }
-    ] : []),
   ],
   // Content to add to the head of the page, e.g. for a favicon:
   head: `
