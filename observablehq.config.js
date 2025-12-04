@@ -27,6 +27,18 @@ export default {
       name: "Is there a trade-off between economic growth and CO₂ emissions?",
       path: "/q4"
     },
+    {
+      name: "Which regions show the strongest balance between economic prosperity and sustainability?",
+      path: "/q5"
+    },
+    {
+      name: "Have developing countries narrowed the gap with high-income nations in education and health outcomes?",
+      path: "/q6"
+    },
+    {
+      name: "Can we identify clusters of countries with similar socio-economic profiles using visualization",
+      path: "/q7"
+    }
   ],
   // Content to add to the head of the page, e.g. for a favicon:
   head: `
