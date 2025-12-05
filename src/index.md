@@ -6,7 +6,7 @@ ______
 
 ## Why This Matters
 
-Across the world, countries differ not only in wealth, but in health, education, and sustainability. We often assume economic growth naturally improves living conditions — that higher GDP leads to better health care, longer lives, cleaner environments, and lower inequality.
+Across the world, countries differ not only in wealth, but in health, education, and sustainability. We often assume economic growth naturally improves living conditions - that higher GDP leads to better health care, longer lives, cleaner environments, and lower inequality.
 
 But is that actually true?
 
@@ -40,7 +40,7 @@ Each section of this project presents a question, a visualization, and an interp
 ## Data Description
 
 ### Source
-We use the World Bank’s **World Development Indicators**, a comprehensive global dataset constructed from:
+We use the World Bank’s World Development Indicators, a comprehensive global dataset constructed from:
 - national statistics offices,
 - UN agencies,
 - and international surveys.

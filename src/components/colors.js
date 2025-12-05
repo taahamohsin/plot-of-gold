@@ -1,8 +1,3 @@
-/**
- * Dark Mode Color Palette for Observable Framework
- * Optimized for dark backgrounds with high contrast
- */
-
 // Bright color palette for dark backgrounds - Maximum contrast
 export const darkModeColors = [
     "#00d4ff", // Electric cyan (very bright)
@@ -45,5 +40,4 @@ export const pastelDarkColors = [
     "#ef9a9a"  // Pastel red
 ];
 
-// Default export - the recommended palette
 export default darkModeColors;

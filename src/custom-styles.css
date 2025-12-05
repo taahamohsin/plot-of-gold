@@ -1,9 +1,7 @@
-/* Make all SVG text white for chart readability */
 svg text {
     fill: white !important;
 }
 
-/* Style axis lines */
 svg .domain {
     stroke: #666;
 }
