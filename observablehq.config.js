@@ -38,6 +38,14 @@ export default {
     {
       name: "Can we identify clusters of countries with similar socio-economic profiles using visualization",
       path: "/q7"
+    },
+    {
+      name: "Conclusion and Limitations",
+      path: "/conclusion"
+    },
+    {
+      name: "Bibliography",
+      path: "/bibliography"
     }
   ],
   // Content to add to the head of the page, e.g. for a favicon:
@@ -51,7 +59,7 @@ export default {
   // Some additional configuration options and their defaults:
   theme: "deep-space", // try "light", "dark", "slate", etc.
   // header: "", // what to show in the header (HTML)
-  // footer: "Built with Observable.", // what to show in the footer (HTML)
+  footer: "", // what to show in the footer (HTML)
   // sidebar: true, // whether to show the sidebar
   // toc: true, // whether to show the table of contents
   // pager: true, // whether to show previous & next links in the footer
